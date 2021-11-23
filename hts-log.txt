@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Nov 2021 15:50:51 at https://accountsfn.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://accountsfn.xyz/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:51:04	Error: 	"Not Found" (404) at link https://accountsfn.xyz/true/index.html (from https://accountsfn.xyz/code.jquery.com/jquery-3.4.1.js)
+15:51:04	Error: 	"Not Found" (404) at link https://accountsfn.xyz/cdn-cgi/l/email-protection.html (from https://accountsfn.xyz/tos.html)
+15:51:04	Error: 	"Not Found" (404) at link https://accountsfn.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.html (from https://accountsfn.xyz/tos.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 50 links scanned, 46 files written (8637325 bytes overall) [8460423 bytes received at 650801 bytes/sec], 309436 bytes transferred using HTTP compression in 30 files, ratio 27%, 16.6 requests per connection
+(3 errors, 0 warnings, 0 messages)
